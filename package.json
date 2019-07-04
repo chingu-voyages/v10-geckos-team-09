@@ -1,0 +1,22 @@
+{
+  "name": "v10-geckos-team-09",
+  "version": "1.0.0",
+  "description": "Add-project-description-here | Voyage-10 | https://chingu.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chingu-voyages/v10-geckos-team-09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chingu-voyages/v10-geckos-team-09/issues"
+  },
+  "homepage": "https://github.com/chingu-voyages/v10-geckos-team-09#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
