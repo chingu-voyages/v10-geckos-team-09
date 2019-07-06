@@ -4,6 +4,7 @@
   "description": "Add-project-description-here | Voyage-10 | https://chingu.io/",
   "main": "index.js",
   "scripts": {
+    "dev": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
